@@ -2,4 +2,4 @@
 
 A Python based Web-scraper used for getting price of selected crypto from coinbase.com
 
-A spring backend is in development for elaborating and storing the data 
+A spring backend is in development for elaborate and store the result
